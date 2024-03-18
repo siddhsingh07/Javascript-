@@ -1,2 +1,2 @@
 # Javascript
-This is a Javascript repo
+This is a Javascript repository
