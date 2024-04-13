@@ -76,6 +76,8 @@ function endGame() {
   newGame();
 }
 
+
+
 function newGame() {
   const newGameButton = document.querySelector('#newGame');
   newGameButton.addEventListener('click', function (e) {
