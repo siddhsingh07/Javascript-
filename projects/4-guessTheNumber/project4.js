@@ -91,5 +91,6 @@ function newGame() {
 
     playGame = true;
   });
+  
 }
 
